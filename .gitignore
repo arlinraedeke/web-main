@@ -1,0 +1,16 @@
+push.sh
+localSettings.php
+f-login.php
+
+# Eclipse generated files
+.settings
+.project
+.buildpath
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
