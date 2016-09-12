@@ -25,7 +25,8 @@
         <ul>
           <li>David Ford, Board President</li> 
           <li>Nick Essner, Board Member</li>
-          <li>Andrea Jones, Board Member</li>
+          <li>Arlin Raedeke, Interim Treasurer</li>
+          <li>Andrea Jones, Board Secretary</li>
           <li>Jon Weers, Interim Board Member</li>
         </ul>
 
@@ -34,7 +35,8 @@
         <ul>
           <li>Sandy Peletier</li>
           <li>Sonja Ferdows</li>
-          <li>Nick Essner</li>    
+          <li>Nick Essner</li>
+          <li>Debbie Neff</li>
         </ul>
       </div>
     
