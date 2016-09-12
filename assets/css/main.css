@@ -1,0 +1,411 @@
+/*
+  Main CSS File
+*/
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+@import 'https://fonts.googleapis.com/css?family=Merriweather:300i,400i';
+
+body {
+  font-family: "Open Sans","Helvetica Neue", Helvetica, sans;
+}
+
+div#content {
+  background: rgba(255,255,255,0.1);
+  padding-top: 20px;
+}
+
+div.visible {
+  display: block !important;
+}
+
+.hidden {
+  display:none !important;
+}
+
+.lead.lead-small {
+  font-size: 17px;
+}
+
+main {
+  margin: 0 1.2em;
+  background: white;
+  padding: 1em 2em;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: 300;
+  color: #b9915e;
+}
+
+.main-bkg {
+  background: url('../img/sh-clarkson.jpg') 0 0 no-repeat;
+  background-size: cover;
+  background-color: #191919;
+}
+
+.close { /* modernize Bootstrap a tad */
+  font-weight: 400;
+  font-size: 1.65em;
+}
+
+main .close {
+  margin-right: -0.5em; /* tweak position of close icon within mains */
+}
+
+.deep-anchor,
+.deep-anchor:hover,
+.deep-anchor:focus {
+  color:#297398;
+  text-decoration:none;
+}
+
+.deep-anchor:focus {
+  background: #fff9ee;
+}
+
+@media (max-width: 550px) {
+  main {
+    margin: 0 1.5em;
+  }
+}
+
+/* Logos and Branding */
+
+
+
+/* Main site Nav Bar */
+.sh-navbar {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+.sh-navbar .navbar-brand {
+  font-size: 2.25em;
+  color: #eeddbb; 
+  font-family: 'Merriweather','Times New Roman',serif;
+  font-weight: 300;
+  font-size: 2.25em;
+  margin-left: 0.5em;
+  transition: color 0.2s;
+}
+
+.sh-navbar a.navbar-brand:hover {
+  color: white;
+}
+
+@media (max-width: 1025px) {
+  .sh-navbar a.navbar-brand {
+    font-size: 1.5em;
+  }
+}
+
+.sh-navbar .navbar-nav > li > a,
+.sh-navbar .navbar-nav > li > a:visited {
+  color: rgba(255,255,255,0.7);
+  transition: color 0.2s; 
+}
+
+.sh-navbar .navbar-nav > li > a:hover {
+  color: white;
+}
+
+.sh-navbar .navbar-nav > .active > a,
+.sh-navbar .navbar-nav > .active > a:hover {
+  background: rgba(255,255,255,0.1);
+  color: white;
+}
+
+.sh-navbar .navbar-form .input-group > .form-control,
+.sh-navbar .navbar-form .input-group-btn > .btn {
+  background-color: rgba(0,0,50,0.3);
+  color: white;
+  border-color: #adadad;
+}
+
+.sh-navbar .navbar-form .input-group > .form-control:hover,
+.sh-navbar .navbar-form .input-group-btn > .btn:hover {
+  border-color: #cccccc;
+}
+
+@media (min-width: 790px) {
+  .sh-navbar .navbar-collapse.navbar-right {
+    margin-top: 0;
+  }
+}
+
+/* Main Index Page Styles */
+#quote {
+  color: #e7e7e7;
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 1.5em;
+  margin-top: 2em;
+}
+
+.home-page-sections {
+  width: 85%;
+  margin: 0 auto;
+  padding-top: 2.5em;
+}
+
+.home-page-section {
+  text-align: center;
+  color: #665d5d;
+}
+
+.home-page-section h3 {
+  margin-bottom: 1em;
+}
+
+.home-page-section .gray-box {
+  background: rgba(238,238,238,1);
+  text-align: left;
+  padding: 1px 1.5em 1em;
+  margin-bottom: 2em;
+}
+
+.home-page-section .gray-box h3 {
+  font-size: 19px;
+  font-weight: 300;
+}
+
+.home-page-section .gray-box.translucent {
+  background: rgba(249,249,249,0.9);
+}
+
+.home-page-section p.read-more {
+  float: left;
+  margin-top: 0.5em;
+}
+
+/* About page styles */
+
+.about-block li {
+  margin: 5px 0;   
+}
+
+#team-map {
+  display: block;
+  width: 100%;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+/* FAQ page styles */
+
+.faqItem {
+  margin:0px 20px 20px 20px;
+}
+
+.faqAnswer {
+  margin-left:25px;
+}
+
+code.faq-btn {
+  border-color: #b1b1b1;
+  font-size: smaller;
+  color: inherit;
+}
+
+/* Event page styles */
+.eventItem {
+  margin:0px 20px 20px 20px;
+}
+
+.event-body {
+  margin-left:25px;
+}
+
+.event-body img {
+  margin-bottom: 0.7em;
+}
+
+/* Blog page styles */
+
+.blog-date {
+  position: relative;
+  top: -0.8em;
+}
+
+.blog-title {
+  font-size: 1.2em;
+}
+
+.blog-item {
+  margin-bottom: 4em;
+}
+
+/* Contact page styles */
+
+.contact-block {
+  margin-top: 50px;    
+}
+
+.contact-block h3 {
+  margin-top: 0;   
+}
+
+.contact-block i {
+  margin-right: 0.5em;
+}
+
+.pic-frame {
+  max-width: 250px;
+  margin-bottom: 25px;  
+}
+
+.staff-pic {
+  width: 100%;   
+}
+
+@media (min-width: 768px) {
+  .responsive-hide {
+    display: block;
+  } 
+  .responsive-show {
+    display: none;
+  }    
+}
+
+@media (max-width: 768px) {
+  .responsive-hide {
+    display: none;
+  } 
+  .responsive-show {
+    display: block;
+  }    
+}
+
+@media (max-width: 580px) {
+  .col-xs-4.pic-frame {
+    width: 100%;   
+  }
+  .col-xs-8.contact-info {
+    width: 100%;   
+  }
+}
+
+/* Photo and Image Credits */
+.photo-credit {
+  font-size: 0.8em;
+  font-style: italic;
+  color: #aaa;
+  float: right;
+}
+
+/* bootstrap custom additions */
+.modal-backdrop {
+  background-color: white;
+}
+
+/* bootstrap callout */
+.callout {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-left-color: #cecfba;
+  border-radius: 3px;
+}
+.callout-list {
+  padding: 10px 30px;
+  font-weight: 300;
+  font-size: 1.1em;
+}
+
+/* Form Validation */
+div.form-group span.help-block {
+  margin-top: 0px;
+}
+
+.btn-remove {
+  padding: 0;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  -webkit-appearance: none;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 20px;
+  color: #eb362f;
+  text-shadow: 0 1px 0 #ffffff;
+}
+
+.btn-remove:hover {
+  color: #bd362f;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btn-edit {
+  padding: 0;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  -webkit-appearance: none;
+}
+
+
+/* Bootstrap Form mods */
+div.form-group label {
+  margin-right: 1em;
+}
+
+div.form-group label.radio { 
+  padding: 1px 10px 1px 25px;
+  background-color: #f2f2f2;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+div.form-group label.radio:hover {
+  background: #445244;
+  border-color: #224222;
+  color: white;
+}
+
+div.form-group label.radio.selected {
+  background: none repeat scroll 0 0 #cde69c;
+  border: 1px solid #a5d24a;
+  color: #225222;
+}
+
+div.form-group button#addDOIBtn,
+div.form-group span#addDOIMsg {
+  margin-bottom: 10px;
+}
+
+
+/*
+ * So datepicker will show up on top of the modal dialog (which has z-index of 1050)
+ */
+.datepicker{
+  z-index:1060;
+}
+
+/* Main Site Footer */
+#footer {
+  background: rgba(0,0,0,0.4);
+  color: white;
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+}
+
+#footer .credits {
+  text-align: center;
+  padding: 0.5em 10%;
+}
+
+#footer .fineprint {
+  color: #ddd;
+  font-size: 0.8em;
+}
+
+#footer a {
+  color: #ecddac;
+}
