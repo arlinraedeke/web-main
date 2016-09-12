@@ -71,7 +71,10 @@
     <div class="faqItem">
       <a href="#grill" name="grill" class="faqQuestion deep-anchor lead">Can I have a grill on my patio or balcony?</a>
       <div class="faqAnswer">
-        <p>Need answer here.</p>
+        <p>From <strong>Denver Fire Code-Section 308.1.4 – OPEN FLAME DEVICES</strong>:
+           <br>No gas-fired grills, charcoal grills or other similar devices used for cooking, heating, or any other purpose,
+               shall be used or kindled on any balcony or under any overhanging portion or within 10 feet (3 m) of any structure.
+        </p>
       </div>
     </div>
     
