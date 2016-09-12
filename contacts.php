@@ -59,7 +59,7 @@
                   <p><i class="fa fa-phone"></i> (303) ???</p>
               </div>
           <div class="col-sm-12">
-              <p>Rick has been managing both the Swallow Hill Emerson and Clarkson buildings for <code>4?</code> years.
+              <p>Rick has been managing both the Swallow Hill Emerson and Clarkson buildings for over 13 years.
               He is well-versed in the technologies and building systems utilized by Swallow Hill and takes pride in making sure our buidings run efficiently. 
               </p>
           </div>
