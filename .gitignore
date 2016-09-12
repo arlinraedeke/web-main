@@ -2,6 +2,7 @@ push.sh
 localSettings.php
 f-login.php
 Dezine
+assets/localSettings.*
 
 # Eclipse generated files
 .settings
