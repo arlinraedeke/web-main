@@ -18,7 +18,7 @@
     <div class="faqItem">
       <a href="#dues" name="dues" class="faqQuestion deep-anchor lead">When are my monthly HOA dues due?</a>
       <div class="faqAnswer">
-        <p>Monthly dues are due on the 1st of each month and must be received by the management company by the <code>xth</code> to avoid a late fee.</p>
+        <p>Monthly dues are due on the 1st of each month.</p>
       </div>
     </div>
     
