@@ -101,6 +101,12 @@ main .close {
   }
 }
 
+@media (max-width: 425px) {
+  .sh-navbar a.navbar-brand {
+    font-size: 1.4em;
+  }
+}
+
 .sh-navbar .navbar-nav > li > a,
 .sh-navbar .navbar-nav > li > a:visited {
   color: rgba(255,255,255,0.7);
@@ -149,6 +155,12 @@ main .close {
   width: 85%;
   margin: 0 auto;
   padding-top: 2.5em;
+}
+
+@media (max-width: 769px) {
+  .home-page-sections {
+    padding-top: 0.5em;
+  }
 }
 
 .home-page-section {
