@@ -219,7 +219,7 @@ code.faq-btn {
   border: 1px solid #aaa;
   box-shadow: 1px 1px 3px rgba(0,0,0,0.15);
   padding: 0 10px 10px;
-  margin-right: 20px;
+  margin: 0 20px 20px 0;
 }
 
 .white-card a,
@@ -241,9 +241,17 @@ code.faq-btn {
   opacity: 0.2;
 }
 
+/* layout hack, laziness */
+@media (min-width: 992px){
+  .card-board .col-md-3 {
+    width: 31%;
+  }
+}
+
+
 .card-board {
   min-height: 20px;
-  padding: 19px;
+  padding: 20px 20px 0;
   margin-bottom: 20px;
   background-color: #c0cee0;
   border: 1px solid #bec8da;
