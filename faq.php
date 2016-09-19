@@ -41,8 +41,7 @@
     <div class="faqItem">
       <a href="#hoaincludes" name="hoaincludes" class="faqQuestion deep-anchor lead">What is included in the HOA dues?</a>
       <div class="faqAnswer">
-        <p>Your HOA dues include water, sewer, trash, landscaping, and cleaning and maintenance of common areas including the garage, entry, and elevator.</a>.
-        </p>
+        <p>Your HOA dues include gas (including unit gas), water, sewer, trash, landscaping, cleaning and maintenance of common areas including the garage, entry, and elevator.  The dues also cover repairs and maintenance of major buildings systems including common plumbing, electrical, HVAC, and mechanical systems; contract services such as landscaping, trash removal, elevator maintenance and snow removal; administrative services including accounting, legal, and audit services; property insurance; and capital reserves.</p>
       </div>
     </div>
     
@@ -64,16 +63,27 @@
     <div class="faqItem">
       <a href="#moving" name="moving" class="faqQuestion deep-anchor lead">What are the procedures for moving?</a>
       <div class="faqAnswer">
-        <p>Need answer here.</p>
+        <p>Moving in and out of units requires that the owner of the unit provide notice to Market Street Management at least 24 hours in advance of the move.<br> 
+          Every move into the building <strong>requires a $200 move-in fee</strong>, which will be billed to the unit owner.  Once notification of a move is received, the management company will place padding in the freight elevator and provide you with a way to stop the elevator to make your move easier.<br>  
+          All moves must be done using the back alley entrances, rather than the front doors.  Please help us keep up appearances by not hauling goods through the front entryways.
+        </p>
       </div>
     </div>
     
     <div class="faqItem">
       <a href="#grill" name="grill" class="faqQuestion deep-anchor lead">Can I have a grill on my patio or balcony?</a>
       <div class="faqAnswer">
-        <p>From <strong>Denver Fire Code-Section 308.1.4 – OPEN FLAME DEVICES</strong>:
+        <p>From <strong>Denver Fire Code-Section 308.1.4 - OPEN FLAME DEVICES</strong>:
            <br>No gas-fired grills, charcoal grills or other similar devices used for cooking, heating, or any other purpose,
                shall be used or kindled on any balcony or under any overhanging portion or within 10 feet (3 m) of any structure.
+        </p>
+      </div>
+    </div>
+    
+    <div class="faqItem">
+      <a href="#quiet" name="quiet" class="faqQuestion deep-anchor lead">What are the quiet hours?</a>
+      <div class="faqAnswer">
+        <p>Your fellow residents at Swallow Hill kindly ask that you respect the quiet hours between 10:00pm and 8:00am Sunday through Thursday, and 11:00pm through 8:00am on Friday and Saturday. 
         </p>
       </div>
     </div>
