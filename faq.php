@@ -15,6 +15,7 @@
     <p>If your question is not answered here, please <a href="mailto:<?php echo Settings::contactEmailAddr; ?>">contact us</a>.</p>
     
     <h2>HOA Dues</h2>
+    
     <div class="faqItem">
       <a href="#dues" name="dues" class="faqQuestion deep-anchor lead">When are my monthly HOA dues due?</a>
       <div class="faqAnswer">
@@ -30,7 +31,7 @@
           <address class="well">
             Swallow Hill Homeowner Assn<br>
             c/o Market Street Management<br>
-            1600 Blake Street<br>
+            1800 Glenarm Place, Suite 200<br>
             Denver, CO 80202
           </address>
         </p>
@@ -46,10 +47,11 @@
     </div>
     
     <h2>Replacement Keys</h2>
+    
     <div class="faqItem">
       <a href="#keys" name="keys" class="faqQuestion deep-anchor lead">How do I get replacement keys, fobs, or garage remotes?</a>
       <div class="faqAnswer">
-        <p>Additional access devices can be obtained through Market Street Management.  If you are renting your unit, please coordinate the replacement through your owner.  Market Street Management must have the permission of the unit owner before they can distribute extra access devices.  Additional devices are subject to the charges below:<br>
+        <p>Additional access devices can be obtained through Market Street Management. If you are renting your unit, please coordinate the replacement through your owner.  Market Street Management must have the permission of the unit owner before they can distribute extra access devices.  Additional devices are subject to the charges below:<br>
         Keys - $10 each<br>
         Fobs - $20 each<br>
         Garage Remotes - $50 each<br>
@@ -57,8 +59,23 @@
       </div>
     </div>
     
+    <h2>Window Replacement</h2>
+    
+    <div class="faqItem">
+      <a href="#windowSupply" name="windowSupply" class="faqQuestion deep-anchor lead">Who provides replacement windows?</a>
+      <div class="faqAnswer">
+        <p>Replacement windows may be obtained from Jeld-Wen, the original provider of windows for Swallow Hill. Obtaining and installing replacement windows are the responsibility of individual unit owners. Owners may be entitled to replacement windows at a prorated discount through the warranty provided by Jeld-Wen.
+        </p>
+      </div>
+    </div>
+    
+    <!-- 
+      + What is the window warranty information?
+      + How can I get my windows installed?
+      + Window washing??
+     -->
+    
     <h2>Rules and Regs</h2>
-
     
     <div class="faqItem">
       <a href="#moving" name="moving" class="faqQuestion deep-anchor lead">What are the procedures for moving?</a>
@@ -79,6 +96,10 @@
         </p>
       </div>
     </div>
+    
+    <!--
+      + Add ??
+     -->
     
     <div class="faqItem">
       <a href="#quiet" name="quiet" class="faqQuestion deep-anchor lead">What are the quiet hours?</a>
