@@ -32,10 +32,10 @@
         <h2>Design Committee</h2>
         <p>Special thanks to Swallow Hill design committee for organizing the upcoming redesign of our interior hallways!</p>
         <ul>
+          <li>Nick Essner, Committee Chair</li>
           <li>Sandy Peletier</li>
           <li>Sonja Ferdows</li>
-          <li>Nick Essner</li>
-          <li>Debbie Neff</li>
+          <li>Deborah Neff</li>
         </ul>
       </div>
     
