@@ -56,7 +56,7 @@
                   <h3>Rick Doris</h3>
                   <p class="lead">Swallow Hill Condominiums Building Manager, Market Street Management</p>
                   <p><i class="fa fa-envelope-o"></i> <?php echo getSafeEmailLink('rick@marketstreetmanagement.com', 'Email Rick'); ?></p>
-                  <p><i class="fa fa-phone"></i> (303) ???</p>
+                  <p><i class="fa fa-phone"></i> (303) 595-8710</p>
               </div>
           <div class="col-sm-12">
               <p>Rick has been managing both the Swallow Hill Emerson and Clarkson buildings for over 13 years.
