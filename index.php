@@ -42,7 +42,7 @@
       <a class="community-title" href="blog#changetheworld">Historic walking tours</a>
       <p>Join Arlin and your neighbors for a historic tour of the Uptown neighborhood full of interesting stories and colorful characters in Colorado's past!</p>
       
-      <a class="community-title" href="http://uptowndenver.org/">Uptown on the Hill</a>
+      <a class="community-title" href="http://uptowndenver.org/">Uptown Neighborhood Association</a>
       <p>This neighborhood association combines the energy and enthusiasm of residents and local businesses to build and maintain a vibrant and friendly Denver neighborhood.</p>
       
       <!-- <p class="read-more"><a href="community">Read more</a></p>  -->
