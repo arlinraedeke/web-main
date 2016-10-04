@@ -216,6 +216,11 @@ main .close {
   margin-left:25px;
 }
 
+.faqAnswer .quote {
+  margin-left: 1em;
+  font-style: italic;
+}
+
 code.faq-btn {
   border-color: #b1b1b1;
   font-size: smaller;

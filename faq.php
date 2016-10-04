@@ -90,9 +90,15 @@
     <div class="faqItem">
       <a href="#grill" name="grill" class="faqQuestion deep-anchor lead">Can I have a grill on my patio or balcony?</a>
       <div class="faqAnswer">
-        <p>From <strong>Denver Fire Code-Section 308.1.4 - OPEN FLAME DEVICES</strong>:
-           <br>No gas-fired grills, charcoal grills or other similar devices used for cooking, heating, or any other purpose,
-               shall be used or kindled on any balcony or under any overhanging portion or within 10 feet (3 m) of any structure.
+        <p>On balconies and upper decks, the only allowable grill is one that can be connected to the external gas supply or electric outlet provided on each unit's balcony or deck.
+          Grills with liquid propane (LP) gas containers larger than one pound are prohibited on balconies and upper decks.
+          LP gas containers larger than one pound are allowed on ground floor patios when there are no balconies directly above or within ten feet.
+          Charcoal grills, smokers, fire pits and chimaeras are not permitted.
+        </p>
+        <p>When in question, always observe <strong>Denver Fire Code-Section 308.1.4 - OPEN FLAME DEVICES</strong>:</p>
+        <p class="quote">
+          "No gas-fired grills, charcoal grills or other similar devices used for cooking, heating, or any other purpose,
+          shall be used or kindled on any balcony or under any overhanging portion or within 10 feet (3 m) of any structure."
         </p>
       </div>
     </div>
