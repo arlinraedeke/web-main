@@ -37,18 +37,9 @@
   
     <div class="gray-box">
       <h3>Community</h3>
-      
-      <a class="community-title" href="files/rules-and-regulations.pdf" target="_blank">Rules and Regulations</a>
-      <p>Download the latest <a href="files/rules-and-regulations.pdf" target="_blank">HOA rules and regulations</a>.</p>
-      
-      <a class="community-title" href="blog#changetheworld" target="_blank">Historic walking tours</a>
-      <p>Join Arlin and your neighbors for a historic tour of the Uptown neighborhood full of interesting stories and colorful characters in Colorado's past!</p>
-      
-      <a class="community-title" href="http://uptowndenver.org/" target="_blank">Uptown Neighborhood Association</a>
-      <p>Also known as Uptown on the Hill, this neighborhood association combines the energy and enthusiasm of residents and local businesses to build and maintain a vibrant and friendly Denver neighborhood.</p>
-      
-      <!-- <p class="read-more"><a href="community">Read more</a></p>  -->
-      
+      <?php 
+        include 'content/community.html';
+      ?>
     </div>
   
   

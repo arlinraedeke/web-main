@@ -40,11 +40,10 @@
                   <h3>David Ford</h3>
                   <p class="lead">Swallow Hill Condominiums HOA Board President</p>
                   <p><i class="fa fa-envelope-o"></i> <?php echo getSafeEmailLink('president@swallowhillhoa.org', 'Email David'); ?></p>
-                  <p><i class="fa fa-phone"></i> (303) ???</p>
               </div>
           <div class="col-sm-12">
-              <p>David Ford has served as the Swallow Hill HOA Board president since <code>??</code>.
-              He currently works at the <code>??</code> as is an active supporter of local neighborhood initiatives.
+              <p>David Ford has served as the Swallow Hill HOA Board president since 2008.
+              He currently works at the National Trust for Historic Preservation as is an active supporter of local neighborhood initiatives.
               </p>
           </div>
       </div>
