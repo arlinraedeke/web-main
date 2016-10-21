@@ -165,7 +165,7 @@ main .close {
 
 .home-page-section {
   text-align: center;
-  color: #665d5d;
+  color: #4e4a40;
 }
 
 .home-page-section h3 {
@@ -180,8 +180,9 @@ main .close {
 }
 
 .home-page-section .gray-box h3 {
-  font-size: 19px;
+  font-size: 20px;
   font-weight: 300;
+  color: black;
 }
 
 .home-page-section .gray-box.translucent {
