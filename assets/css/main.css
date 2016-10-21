@@ -194,6 +194,50 @@ main .close {
   margin-top: 0.5em;
 }
 
+.events section {
+  clear: left;
+  margin-bottom: 1.3em;
+}
+
+.events strong {
+  font-size: 1.1em;
+}
+
+.event {
+  clear: left;
+  margin-bottom: 0.75em;
+}
+
+.event .date {
+  float:left;
+  margin: 0.24em 0.75em 0.76em 0;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+
+.event .date span {
+  display: block;
+}
+
+.event .date span.month {
+  color: white;
+  font-size: 0.7em;
+  font-weight: 400;
+  line-height: 0.8em;
+  padding: 3px 7px;
+  text-align: center;
+  background: gray;
+  text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+}
+
+.event .date span.day {
+  font-size: 1.15em;
+  font-weight: 400;
+  color: #555;
+  text-align: center;
+}
+
+
 /* About page styles */
 
 .about-block li {

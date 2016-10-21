@@ -21,9 +21,11 @@
 
     <div class="gray-box translucent">
       <h3>What's Happening</h3>
-      <?php 
-        include 'content/events.html';
-      ?>
+      <div class="events">
+        <?php 
+          include 'content/events.html';
+        ?>
+      </div>
       <a class="btn btn-default pull-right" href="mailto:dawnette@marketstreetmanagement.com?subject=Swallow Hill Newsletter&body=Hi Dawnette,%0D%0DPlease sign me up for the Swallow Hill Newsletter.%0D%0DThank you,">Sign up for the newsletter</a>
       <!-- <button type="button" class="btn btn-default pull-right" data-toggle="modal" data-target="#registerEmailModal">Sign up for the newsletter</button>  -->
       <div class="clearfix">&nbsp;</div>
