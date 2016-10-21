@@ -13,8 +13,8 @@
   <main>
     <a href="home" class="close"><span aria-hidden="true">&times;</span></a>
     
-    <h1 class="responsive-hide">Contacts for Swallow Hill Condominiums</h1>
-    <h1 class="responsive-show">Contacts</h1>
+    <h1 class="visible-md-block visible-lg-block">Contacts for Swallow Hill Condominiums</h1>
+    <h1 class="hidden-md hidden-lg">Contacts</h1>
     <div class="row">
       <div class="col-lg-6 col-md-12 contact-block">
           <div class="col-sm-4 pic-frame">
